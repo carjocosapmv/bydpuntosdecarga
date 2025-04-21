@@ -1,0 +1,64 @@
+{
+  "Estaciones_de_Carga": [
+    {
+      "Nombre": "BYD CUENCA",
+      "Coordenadas": "-2.894200, -78.99433",
+      "Ciudad": "CUENCA",
+      "CLentos": [
+        {
+          "Estandar": "Tipo 2",
+          "Cantidad": 2,
+          "Potencia": "7 kW"
+        }
+      ]
+    },
+    {
+      "Nombre": "BYD RIOBAMBA 1",
+      "Coordenadas": "-1.6423758, -78.75856",
+      "Ciudad": "RIOBAMBA",
+      "CLentos": [
+        {
+          "Estandar": "Tipo 2",
+          "Cantidad": 2,
+          "Potencia": "7 kW"
+        }
+      ]
+    },
+    {
+      "Nombre": "BYD JUAN TANCA MARENGO",
+      "Coordenadas": "-2.14900, -79.90392",
+      "Ciudad": "GUAYAQUIL",
+      "CRapidos": [
+        {
+          "Estandar": "CCS2",
+          "Cantidad": 1,
+          "Potencia": "80 kW"
+        }
+      ]
+    },
+    {
+      "Nombre": "BYD GRANADOS",
+      "Coordenadas": "-0.1632143, -78.46351",
+      "Ciudad": "QUITO",
+      "CLentos": [
+        {
+          "Estandar": "Tipo 2",
+          "Cantidad": 2,
+          "Potencia": "7 kW"
+        }
+      ]
+    },
+    {
+      "Nombre": "BYD CUMBAYA",
+      "Coordenadas": "-0.19781, -78.43891",
+      "Ciudad": "Quito",
+      "CLentos": [
+        {
+          "Estandar": "Tipo 2",
+          "Cantidad": 3,
+          "Potencia": "7 kW"
+        }
+      ]
+    }
+  ]
+}
